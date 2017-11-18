@@ -1,0 +1,6 @@
+/* A visible text */
+"PassWord" = "密码";
+
+/* A kind of invisible text */
+"SecurityPassWord" = "安全密码";
+
